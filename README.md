@@ -1,2 +1,0 @@
-# DeepEqual
-Created with CodeSandbox
